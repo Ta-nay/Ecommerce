@@ -1,6 +1,7 @@
-
+import React from 'react'
 import './CSS/LoginSignup.css'
-const LoginSignUp = () => {
+
+const LogSign = () => {
   return (
     <div className='loginsignup'>
       <div className="loginsignup-container">
@@ -21,4 +22,4 @@ const LoginSignUp = () => {
   )
 }
 
-export default LoginSignUp
+export default LogSign
